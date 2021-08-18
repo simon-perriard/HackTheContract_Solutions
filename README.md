@@ -1,5 +1,3 @@
-# HackTheContract
+# HackTheContract Solutions
 
-Deliverables for Making An Auditor
-
-Each one of these contracts contains a vulnerability. Find it :)
+Solutions for [HackTheContract](https://github.com/simon-perriard/HackTheContract).
