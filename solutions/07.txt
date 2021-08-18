@@ -1,0 +1,4 @@
+If an employee joins the company after they decide to move the payments to the blockchain,
+he could give a contract address and block the payments.
+
+relevant SWC: 113

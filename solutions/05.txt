@@ -1,0 +1,3 @@
+Check in modifier priceStockCheck is wrong, it breaks the buyBook functionnality.
+
+relevant SWC: 123

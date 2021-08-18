@@ -1,0 +1,3 @@
+We can bypass the price cheack and direct buy every product with an arbitrary price as finalPrice with a price() function that depends on Product.isSold.
+
+relevant SWC: 112

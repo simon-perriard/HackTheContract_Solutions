@@ -1,0 +1,3 @@
+Use of tx.origin to authenticate the owner. Can be hacked with phishing.
+
+relevant SWC: 115

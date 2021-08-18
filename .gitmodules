@@ -1,0 +1,3 @@
+[submodule "contracts/HackTheContract"]
+	path = contracts/HackTheContract
+	url = git@github.com:simon-perriard/HackTheContract.git

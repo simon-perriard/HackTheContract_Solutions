@@ -1,0 +1,6 @@
+This rock-paper-scissors game has a weak commitment scheme.
+There are only 3 values we can commit to and no salt or nonce is added, the commitment is a simple keccak256 with the raw value.
+We can precompute the values for ROCK, PAPER and SCISSORS and wait for our opponent to commit to one these values.
+Then we query the contract to see his commitment and compare it with the precomputed values, then we choose our action.
+
+relevant SWC: 136, 133

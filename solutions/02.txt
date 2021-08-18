@@ -1,0 +1,3 @@
+Upon construction, a contract's code size will be 0. So run everything in the constructor.
+
+relevant SWC: 120, 123

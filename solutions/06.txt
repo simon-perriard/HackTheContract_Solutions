@@ -1,0 +1,3 @@
+Unchecked balance after a flash loan <= 1 ether. We can drain the contracts by making a reentrancy with <= 1 ether each time.
+
+relevant SWC: 107

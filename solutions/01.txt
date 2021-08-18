@@ -1,0 +1,6 @@
+In here anyone can write poems in bytes32, if you're an author you can also delete poems.
+In the assembly code there is "sstore(and(v, not(v)), id)", which allows us to write anything in place of the owner variable.
+
+If I understood correctly the behaviour of transfer, a reentrancy is possible but there is not enough gas to actually change the state of the chain
+
+relevant SWC: 124
